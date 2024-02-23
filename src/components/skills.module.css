@@ -1,0 +1,33 @@
+.skillsSection {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .skillsTitle {
+    color: #4a4a4a;
+    margin-bottom: 20px;
+  }
+  
+  .skillsList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skillsItem {
+    color: #4a4a4a;
+    margin-bottom: 10px;
+  }
+  
+  /* Pastel tones */
+  .skillsSection {
+    background-color: #f0f8ff;
+  }
+  
+  .skillsTitle {
+    color: #4b0082;
+  }
+  
+  .skillsItem {
+    color: #000080;
+  }

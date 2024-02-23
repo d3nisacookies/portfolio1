@@ -1,0 +1,37 @@
+.contactsSection {
+    background-color: reba(240,240,240,0.5);
+    padding: 20px;
+    border-radius: 10px;
+    position: fixed;
+    right: 0;
+    top: 250px;
+    width: 300px;
+  }
+  
+  .contactsTitle {
+    color: #4a4a4a;
+    margin-bottom: 20px;
+  }
+  
+  .contactsList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .contactsItem {
+    color: #4a4a4a;
+    margin-bottom: 10px;
+  }
+  
+  /* Pastel tones */
+  .contactsSection {
+    background-color: #f0f8ff;
+  }
+  
+  .contactsTitle {
+    color: #4b0082;
+  }
+  
+  .contactsItem {
+    color: #000080;
+  }

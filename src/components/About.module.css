@@ -1,0 +1,22 @@
+.container {
+    padding: 2rem;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 1rem 0;
+  }
+  
+  .header {
+    padding: 10px 20px;
+    text-align: center;
+    color: white;
+    background-color: #ffb6c1;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+  }
+  
+  .content {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    color: #6c63ff;
+  }

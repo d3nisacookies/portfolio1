@@ -1,0 +1,37 @@
+.projectsSection {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    position: fixed;
+    left: 0;
+    top: 250px;
+    width: 300px;
+  }
+  
+  .projectsTitle {
+    color: #4a4a4a;
+    margin-bottom: 20px;
+  }
+  
+  .projectsList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .projectsItem {
+    color: #4a4a4a;
+    margin-bottom: 10px;
+  }
+  
+  /* Pastel tones */
+  .projectsSection {
+    background-color: #f0f8ff;
+  }
+  
+  .projectsTitle {
+    color: #4b0082;
+  }
+  
+  .projectsItem {
+    color: #000080;
+  }
